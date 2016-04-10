@@ -1,0 +1,35 @@
+{
+  "name": "ca-native-plant-app",
+  "version": "0.0.1",
+  "description": "A web app to facilitate choosing California native plants for your landscape.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "california",
+    "native",
+    "plants",
+    "southern",
+    "california",
+    "gardening",
+    "sustainable",
+    "when",
+    "in",
+    "drought",
+    "node.js",
+    "javascript",
+    "SPA",
+    "data",
+    "open",
+    "source"
+  ],
+  "author": "Rachelle Gray",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "hogan": "^1.0.2",
+    "mysql": "^2.10.2",
+    "stylus": "^0.54.2"
+  }
+}
