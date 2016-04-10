@@ -1,0 +1,14 @@
+Thumbs.db
+.DS_Store
+.htaccess
+
+node_modules/
+bower_components/
+upstart/
+.tmp/
+tmp/
+
+npm-debug.log
+
+*.sublime-project
+*.sublime-workspace
