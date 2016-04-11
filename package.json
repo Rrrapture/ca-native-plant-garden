@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/Rrrapture/ca-native-plant-garden"
+  },
   "keywords": [
     "california",
     "native",
@@ -27,6 +31,7 @@
   "author": "Rachelle Gray",
   "license": "ISC",
   "devDependencies": {
+    "dotenv": "^2.0.0",
     "express": "^4.13.4",
     "hogan": "^1.0.2",
     "mysql": "^2.10.2",
