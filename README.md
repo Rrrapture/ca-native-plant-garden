@@ -23,6 +23,8 @@ It's spread amongst multiple organizations, websites, APIs, databases
  - Calflora
    -- native app
    -- ?
+   http://www.cnplx.info/
+   http://www.calflora.org/goalsAndAchievements.html#section4
  - Nicholas Hummingbird's Instagram feed
  - Instagram in general - what's the scraping / API policy?
  - Las Pilitas
@@ -92,7 +94,7 @@ gulp
 *********
 
 MVP
-neighbors first - Lake Balboa area.
+neighbors first - Lake Balboa/Van Nuys area.
 
 
 no need to login or sign up if you just want to do temporary query and list of plants
@@ -120,17 +122,4 @@ ew don't want to do that ground work really
 
 connect to physical retailer or online store to buy
 (scrape or use api)
-
-
-
-MVP show to a neighbor Maggie, Erik
-any corporate level? even necessary?
-
-
-one stop shop?
-
-eventually would be paid service?
-ads?
-
-my database?
 
