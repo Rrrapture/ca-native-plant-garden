@@ -1,6 +1,7 @@
 Thumbs.db
 .DS_Store
 .htaccess
+.env
 
 node_modules/
 bower_components/

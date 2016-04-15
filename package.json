@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/Rrrapture/ca-native-plant-garden"
   },
@@ -34,7 +34,10 @@
     "dotenv": "^2.0.0",
     "express": "^4.13.4",
     "hogan": "^1.0.2",
+    "hogan-express": "^0.5.2",
     "mysql": "^2.10.2",
+    "path": "^0.12.7",
+    "sequelize": "^3.21.0",
     "stylus": "^0.54.2"
   }
 }
