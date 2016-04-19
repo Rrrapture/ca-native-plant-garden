@@ -1,5 +1,10 @@
 Rachelle's California Native Plants app/api
 
+npm install
+
+http://12factor.net/
+
+
 ideating 2016-04-07
 
 There are good mysql drivers for node 
